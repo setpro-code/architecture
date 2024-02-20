@@ -1,0 +1,105 @@
+{
+    "id": "d4245cb0-7cb5-481e-8fe8-b0b338e7b373",
+    "eventType": "git.push",
+    "publisherId": "tfs",
+    "message": {
+        "text": "Ilya Antonov pushed updates to second-project:main\r\n(https://dev.azure.com/devcloud8963/second-project/_git/second-project/#version=GBmain)",
+        "html": "Ilya Antonov pushed updates to <a href=\"https://dev.azure.com/devcloud8963/second-project/_git/second-project/\">second-project</a>:<a href=\"https://dev.azure.com/devcloud8963/second-project/_git/second-project/#version=GBmain\">main</a>",
+        "markdown": "Ilya Antonov pushed updates to [second-project](https://dev.azure.com/devcloud8963/second-project/_git/second-project/):[main](https://dev.azure.com/devcloud8963/second-project/_git/second-project/#version=GBmain)"
+    },
+    "detailedMessage": {
+        "text": "Ilya Antonov pushed a commit to second-project:main\r\n - Added dadanetda 2bff3875 (https://dev.azure.com/devcloud8963/second-project/_git/second-project/commit/2bff38753ba28480c34c6957f4e2d35f7c6d3d6e)",
+        "html": "Ilya Antonov pushed a commit to <a href=\"https://dev.azure.com/devcloud8963/second-project/_git/second-project/\">second-project</a>:<a href=\"https://dev.azure.com/devcloud8963/second-project/_git/second-project/#version=GBmain\">main</a>\r\n<ul>\r\n<li>Added dadanetda <a href=\"https://dev.azure.com/devcloud8963/second-project/_git/second-project/commit/2bff38753ba28480c34c6957f4e2d35f7c6d3d6e\">2bff3875</a></li>\r\n</ul>",
+        "markdown": "Ilya Antonov pushed a commit to [second-project](https://dev.azure.com/devcloud8963/second-project/_git/second-project/):[main](https://dev.azure.com/devcloud8963/second-project/_git/second-project/#version=GBmain)\r\n* Added dadanetda [2bff3875](https://dev.azure.com/devcloud8963/second-project/_git/second-project/commit/2bff38753ba28480c34c6957f4e2d35f7c6d3d6e)"
+    },
+    "resource": {
+        "commits": [
+            {
+                "commitId": "2bff38753ba28480c34c6957f4e2d35f7c6d3d6e",
+                "author": {
+                    "name": "Ilya Antonov",
+                    "email": "devcloud896@hotmail.com",
+                    "date": "2024-01-30T14:16:45Z"
+                },
+                "committer": {
+                    "name": "Ilya Antonov",
+                    "email": "devcloud896@hotmail.com",
+                    "date": "2024-01-30T14:16:45Z"
+                },
+                "comment": "Added dadanetda",
+                "url": "https://dev.azure.com/devcloud8963/_apis/git/repositories/ad8b8f48-5c01-42e3-b7d7-006467b2db47/commits/2bff38753ba28480c34c6957f4e2d35f7c6d3d6e"
+            }
+        ],
+        "refUpdates": [
+            {
+                "name": "refs/heads/main",
+                "oldObjectId": "d2800e1c03882edea0c5580f913d7fa3d2687f5c",
+                "newObjectId": "2bff38753ba28480c34c6957f4e2d35f7c6d3d6e"
+            }
+        ],
+        "repository": {
+            "id": "ad8b8f48-5c01-42e3-b7d7-006467b2db47",
+            "name": "second-project",
+            "url": "https://dev.azure.com/devcloud8963/_apis/git/repositories/ad8b8f48-5c01-42e3-b7d7-006467b2db47",
+            "project": {
+                "id": "f440153a-0451-4342-959b-6c19b6abb74f",
+                "name": "second-project",
+                "url": "https://dev.azure.com/devcloud8963/_apis/projects/f440153a-0451-4342-959b-6c19b6abb74f",
+                "state": "wellFormed",
+                "visibility": "unchanged",
+                "lastUpdateTime": "0001-01-01T00:00:00"
+            },
+            "defaultBranch": "refs/heads/main",
+            "remoteUrl": "https://dev.azure.com/devcloud8963/second-project/_git/second-project"
+        },
+        "pushedBy": {
+            "displayName": "Ilya Antonov",
+            "url": "https://spsprodcus5.vssps.visualstudio.com/A3a7e2d64-d1b4-4b5e-a6a6-b8f8ec0a503a/_apis/Identities/794b38d5-0ce5-62d5-8bf8-6c151983fe3b",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/devcloud8963/_apis/GraphProfile/MemberAvatars/msa.Nzk0YjM4ZDUtMGNlNS03MmQ1LThiZjgtNmMxNTE5ODNmZTNi"
+                }
+            },
+            "id": "794b38d5-0ce5-62d5-8bf8-6c151983fe3b",
+            "uniqueName": "devcloud896@hotmail.com",
+            "imageUrl": "https://dev.azure.com/devcloud8963/_api/_common/identityImage?id=794b38d5-0ce5-62d5-8bf8-6c151983fe3b",
+            "descriptor": "msa.Nzk0YjM4ZDUtMGNlNS03MmQ1LThiZjgtNmMxNTE5ODNmZTNi"
+        },
+        "pushId": 8,
+        "date": "2024-01-30T14:16:45.9432667Z",
+        "url": "https://dev.azure.com/devcloud8963/_apis/git/repositories/ad8b8f48-5c01-42e3-b7d7-006467b2db47/pushes/8",
+        "_links": {
+            "self": {
+                "href": "https://dev.azure.com/devcloud8963/_apis/git/repositories/ad8b8f48-5c01-42e3-b7d7-006467b2db47/pushes/8"
+            },
+            "repository": {
+                "href": "https://dev.azure.com/devcloud8963/f440153a-0451-4342-959b-6c19b6abb74f/_apis/git/repositories/ad8b8f48-5c01-42e3-b7d7-006467b2db47"
+            },
+            "commits": {
+                "href": "https://dev.azure.com/devcloud8963/_apis/git/repositories/ad8b8f48-5c01-42e3-b7d7-006467b2db47/pushes/8/commits"
+            },
+            "pusher": {
+                "href": "https://spsprodcus5.vssps.visualstudio.com/A3a7e2d64-d1b4-4b5e-a6a6-b8f8ec0a503a/_apis/Identities/794b38d5-0ce5-62d5-8bf8-6c151983fe3b"
+            },
+            "refs": {
+                "href": "https://dev.azure.com/devcloud8963/f440153a-0451-4342-959b-6c19b6abb74f/_apis/git/repositories/ad8b8f48-5c01-42e3-b7d7-006467b2db47/refs/heads/main"
+            }
+        }
+    },
+    "resourceVersion": "1.0",
+    "resourceContainers": {
+        "collection": {
+            "id": "c8a32585-2354-4932-89ad-3cd0e0ad3022",
+            "baseUrl": "https://dev.azure.com/devcloud8963/"
+        },
+        "account": {
+            "id": "3a7e2d64-d1b4-4b5e-a6a6-b8f8ec0a503a",
+            "baseUrl": "https://dev.azure.com/devcloud8963/"
+        },
+        "project": {
+            "id": "f440153a-0451-4342-959b-6c19b6abb74f",
+            "baseUrl": "https://dev.azure.com/devcloud8963/"
+        }
+    },
+    "createdDate": "2024-01-30T14:16:52.672Z"
+}
