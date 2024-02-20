@@ -1,0 +1,62 @@
+{
+    "subscriptionId": "f7051821-5ef2-43c7-bb13-caf4f4bb3d20",
+    "notificationId": 1,
+    "id": "d623fd70-4c48-439a-b861-dc545dd36499",
+    "eventType": "git.repo.created",
+    "publisherId": "tfs",
+    "message": {
+        "text": "A new Git repository was created with name test repo and ID 1960fc9c-615a-4b09-bc9f-0629bfeb7961.",
+        "html": "A new Git repository was created with name <a href=\"https://dev.azure.com/alexsmithwarszawa/7523b8aa-3929-4941-9688-0a44e80cafb3/_apis/git/repositories/1960fc9c-615a-4b09-bc9f-0629bfeb7961\">test repo</a> and ID 1960fc9c-615a-4b09-bc9f-0629bfeb7961.",
+        "markdown": "A new Git repository was created with name [test repo](https://dev.azure.com/alexsmithwarszawa/7523b8aa-3929-4941-9688-0a44e80cafb3/_apis/git/repositories/1960fc9c-615a-4b09-bc9f-0629bfeb7961) and ID 1960fc9c-615a-4b09-bc9f-0629bfeb7961."
+    },
+    "detailedMessage": {
+        "text": "A new Git repository was created with name test repo and ID 1960fc9c-615a-4b09-bc9f-0629bfeb7961.\r\nProject name: HWProject\r\n\r\nDefault branch: refs/heads/main\r\n\r\nClone link(https://alexsmithwarszawa@dev.azure.com/alexsmithwarszawa/HWProject/_git/test%20repo)\r\n\r\nSsh link(git@ssh.dev.azure.com:v3/alexsmithwarszawa/HWProject/test%20repo)\r\n",
+        "html": "A new Git repository was created with name <a href=\"https://dev.azure.com/alexsmithwarszawa/7523b8aa-3929-4941-9688-0a44e80cafb3/_apis/git/repositories/1960fc9c-615a-4b09-bc9f-0629bfeb7961\">test repo</a> and ID 1960fc9c-615a-4b09-bc9f-0629bfeb7961.<p>Project name: HWProject</p><p>Default branch: refs/heads/main</p><p><a href=\"https://alexsmithwarszawa@dev.azure.com/alexsmithwarszawa/HWProject/_git/test%20repo\">Clone link</a></p><p><a href=\"git@ssh.dev.azure.com:v3/alexsmithwarszawa/HWProject/test%20repo\">Ssh link</a></p>",
+        "markdown": "A new Git repository was created with name [test repo](https://dev.azure.com/alexsmithwarszawa/7523b8aa-3929-4941-9688-0a44e80cafb3/_apis/git/repositories/1960fc9c-615a-4b09-bc9f-0629bfeb7961) and ID 1960fc9c-615a-4b09-bc9f-0629bfeb7961.\r\nProject name: HWProject\r\n\r\nDefault branch: refs/heads/main\r\n\r\n[Clone link](https://alexsmithwarszawa@dev.azure.com/alexsmithwarszawa/HWProject/_git/test%20repo)\r\n\r\n[Ssh link](git@ssh.dev.azure.com:v3/alexsmithwarszawa/HWProject/test%20repo)\r\n"
+    },
+    "resource": {
+        "repository": {
+            "id": "1960fc9c-615a-4b09-bc9f-0629bfeb7961",
+            "name": "test repo",
+            "url": "https://dev.azure.com/alexsmithwarszawa/7523b8aa-3929-4941-9688-0a44e80cafb3/_apis/git/repositories/1960fc9c-615a-4b09-bc9f-0629bfeb7961",
+            "project": {
+                "id": "7523b8aa-3929-4941-9688-0a44e80cafb3",
+                "name": "HWProject",
+                "url": "https://dev.azure.com/alexsmithwarszawa/_apis/projects/7523b8aa-3929-4941-9688-0a44e80cafb3",
+                "state": "wellFormed",
+                "revision": 65,
+                "visibility": "private",
+                "lastUpdateTime": "2024-02-06T09:10:08.32Z"
+            },
+            "defaultBranch": "refs/heads/main",
+            "size": 727,
+            "remoteUrl": "https://alexsmithwarszawa@dev.azure.com/alexsmithwarszawa/HWProject/_git/test%20repo",
+            "sshUrl": "git@ssh.dev.azure.com:v3/alexsmithwarszawa/HWProject/test%20repo",
+            "webUrl": "https://dev.azure.com/alexsmithwarszawa/HWProject/_git/test%20repo",
+            "isDisabled": false,
+            "isInMaintenance": false
+        },
+        "initiatedBy": {
+            "displayName": "alexsmithwarszawa",
+            "id": "ad6d1d9a-3a2d-62be-84de-8deafd56ca0c",
+            "uniqueName": "alexsmithwarszawa@gmail.com"
+        },
+        "utcTimestamp": "2024-02-19T11:01:56.8978Z"
+    },
+    "resourceVersion": "1.0-preview.1",
+    "resourceContainers": {
+        "collection": {
+            "id": "c9845a37-4196-4784-a774-d023cd06c308",
+            "baseUrl": "https://dev.azure.com/alexsmithwarszawa/"
+        },
+        "account": {
+            "id": "a41ce477-8d79-4ec9-bc9b-98877103ef9e",
+            "baseUrl": "https://dev.azure.com/alexsmithwarszawa/"
+        },
+        "project": {
+            "id": "7523b8aa-3929-4941-9688-0a44e80cafb3",
+            "baseUrl": "https://dev.azure.com/alexsmithwarszawa/"
+        }
+    },
+    "createdDate": "2024-02-19T11:02:03.3220295Z"
+}
